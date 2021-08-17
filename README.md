@@ -3,6 +3,6 @@
 
 Hello halo
 
-- 🔭 I’m currently working on javascript/python/sql
-- 🌱 I’m currently learning Expresss
+- 🔭 I’m currently working on javascript/python/nosql
+- 🌱 I’m currently learning MEVN
 
