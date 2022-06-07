@@ -27,7 +27,7 @@
 </p>
 <br><br>
 
-<h2 align="center">📊 Github's Statistics 📊</h2>
+<h2 align="center">📊 Statistics 📊</h2>
 
 <table border="0" align="center">
   <tr border="0">
