@@ -6,6 +6,9 @@
 - 😄 He/Him
 - 🏫 *Informatics Engineering* at University of Palangka Raya
 - 💫 *"Never give up, keep improving!"*
+<a href="https://www.instagram.com/_jrdrwan/">
+  <img height="42" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 <br><br>
 
