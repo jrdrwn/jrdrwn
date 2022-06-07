@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>👋 Hey hey, Welcome To My Github 👋</b>
+  <b>👋 Hey hey 👋</b>
 </h1>
 
 - 🌱 I’m currently learning Backend Development
