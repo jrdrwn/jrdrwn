@@ -3,7 +3,7 @@
 </h1>
 
 
-<h2 align="center">📊 My Statistics 📊</h2>
+<h2 align="center">📊 Github's Statistics 📊</h2>
 
 <table border="0" align="center">
   <tr border="0">
