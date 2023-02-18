@@ -1,9 +1,8 @@
 <h1 align="center">
-  <b>👋 Hey hey 👋</b>
+  <b>👋 Assalamu'alaikum 👋</b>
 </h1>
 
 - 🌱 I’m currently learning Backend Development
-- 😄 He/Him
 - 🏫 *Informatics Engineering* at University of Palangka Raya
 - 💫 *"Never give up, keep improving!"*
 <a href="https://www.instagram.com/_jrdrwan/">
