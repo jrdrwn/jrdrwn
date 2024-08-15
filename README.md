@@ -1,32 +1,67 @@
-<h1 align="center">
-  <b>👋 Assalamu'alaikum 👋</b>
-</h1>
+<img src="./banner.png" style="border-radius: 8px;max-height: 180px;object-fit: cover;width: 100%" />
 
-- 🌱 I’m currently learning Backend Development
-- 🏫 *Informatics Engineering* at University of Palangka Raya
-- 💫 *"Never give up, keep improving!"*
-<a href="https://www.instagram.com/_jrdrwan/">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+## Hey 👋, I'm Jordi Irawan!
 
-<br><br>
+> As a versatilist, I can easily adapt to various roles, whether it's as a Full Stack Web Developer 🌐, Android Developer 📱, or a beginner Designer 🎨, based on what the project demands. I enjoy diving into new technologies 💻 and leveraging them to build exciting projects 🛠️.
+>
+> <a href="https://www.instagram.com/wannn.me/">
+> <img alt="Static Badge" src="https://img.shields.io/badge/%40wannn.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+>  </a>
+>  <br>
 
-<h2 align="center">👨‍💻 Tools 👨‍💻</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=VisualStudioCode" />
-  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/stack%20overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-</p>
-<br><br>
+<img align="right" alt="GIF" src="./computer.gif" width="170px" style="border-radius: 8px; margin-top: 25px; margin-left: 8px" />
 
-<h2 align="center">📊 Statistics 📊</h2>
+### 🧐 More About Me:
+
+- 🌱 I’m currently learning Web Development
+- 🏫 _Informatics Engineering_ at University of Palangka Raya
+- 💬 Ask me about anything tech related, I am happy to help
+- 💫 _"Never give up, keep improving!"_
+
+<br>
+
+### 🔨 Languages and Tools:
+
+#### Languages
+
+[<code><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javascript" width='26px'/></code>](https://www.javascript.com/)
+[<code><img src="https://img.icons8.com/color/50/000000/php.png" alt="php" width='26px'/></code>](https://www.php.net/)
+[<code><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="python" width='26px'/></code>](https://www.python.org/)
+[<code><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="java" width='26px'/></code>](https://www.java.com/en/)
+[<code><img src="https://img.icons8.com/color/50/000000/dart.png" alt="dart" width='26px'/></code>](https://dart.dev/)
+
+#### Devops
+
+[<code><img width="26" height="26" src="https://img.icons8.com/windows/26/ABABAB/amazon-web-services.png" alt="amazon-web-services"/></code>](https://aws.amazon.com/)
+[<code><img width="26" height="26" src="https://img.icons8.com/fluency/26/docker.png" alt="docker"/></code>](https://www.docker.com/)
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/nginx.png" alt="nginx"/></code>](https://www.nginx.com/)
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/bash.png" alt="bash"/></code>](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>)
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/ubuntu--v1.png" alt="ubuntu--v1"/></code>](https://ubuntu.com/)
+
+#### Mobile Development
+
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/flutter.png" alt="flutter"/></code>](https://flutter.dev/)
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/firebase.png" alt="firebase"/></code>](https://firebase.google.com/)
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/react-native.png" alt="react-native"/></code>](https://reactnative.dev/)
+
+#### Web Development
+
+[<code><img width="26" height="26" src="https://img.icons8.com/office/26/react.png" alt="react"/></code>](https://react.dev/)
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/tailwindcss.png" alt="tailwindcss"/></code>](https://tailwindcss.com/)
+[<code><img width="26" height="26" src="https://img.icons8.com/fluency/26/nextjs.png" alt="nextjs"/></code>](https://nextjs.org/)
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/nestjs.png" alt="nestjs"/></code>](https://nestjs.com/)
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/mongo-db.png" alt="mongo-db"/></code>](https://www.mongodb.com/)
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/mysql-logo.png" alt="mysql-logo"/></code>](https://www.mysql.com/)
+
+#### Tools
+
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/visual-studio-code-2019.png" alt="visual-studio-code-2019"/></code>](https://code.visualstudio.com/)
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/github--v1.png" alt="github--v1"/></code>](https://github.com/)
+[<code><img width="26" height="26" src="https://img.icons8.com/color/26/figma--v1.png" alt="figma--v1"/></code>](https://figma.com/)
+
+<br>
+
+### 📊 Github Stats
 
 <table border="0" align="center">
   <tr border="0">
@@ -39,4 +74,3 @@
     </td>
   </tr>
 </table>
-
