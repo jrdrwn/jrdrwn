@@ -4,9 +4,7 @@
 
 > As a versatilist, I can easily adapt to various roles, whether it's as a Full Stack Web Developer 🌐, Android Developer 📱, or a beginner Designer 🎨, based on what the project demands. I enjoy diving into new technologies 💻 and leveraging them to build exciting projects 🛠️.
 >
-> <a href="https://www.instagram.com/wannn.me/">
-> <img alt="Static Badge" src="https://img.shields.io/badge/%40wannn.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
->  </a>
+> <img alt="Codewars Badge" src="https://www.codewars.com/users/wanzx/badges/small" >
 >  <br>
 
 <img align="right" alt="GIF" src="./computer.gif" width="170px" style="border-radius: 8px; margin-top: 25px; margin-left: 8px" />
